@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CLOCK001](https://github.com/CLOCK001)
 
-- 💬 Ask me about **Css,Html,Javascript**
+- 💬 Ask me about **Css,Html,Javascript,Python**
 
 - 📫 How to reach me **anasredwolf@gmail.com**
 
