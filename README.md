@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 🤝 I’m looking for help with [Image generator](https://github.com/CLOCK001/Image-generator/tree/main)
+- 🤝 I’m looking for help with any project you want to help me with
 
 - 👨‍💻 All of my projects are available at [https://github.com/CLOCK001](https://github.com/CLOCK001)
 
