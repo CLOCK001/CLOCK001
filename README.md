@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas sameh</h1>
 <h3 align="center">A passionate python developer from Egypt 🇪🇬</h3>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Flask**
 
 - 🤝 I’m looking for help with [Image generator](https://github.com/CLOCK001/Image-generator/tree/main)
 
