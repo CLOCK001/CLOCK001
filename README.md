@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **React js then I will learn svelte**
+- 🌱 I’m currently learning **React js and Supabase**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
