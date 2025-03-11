@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas sameh</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clock001" alt="clock001" /></a> </p>
-
 - 🌱 I’m currently learning **React and Tailwind**
 
 - ⚡ Fun fact **I am 15 years old**
